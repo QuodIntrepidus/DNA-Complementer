@@ -1,5 +1,3 @@
-import os
-
 resp = "y"
 c = "n"
 while resp == "y":
